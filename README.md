@@ -1,5 +1,4 @@
 # Leonardo Paiva
-*Paraná, Brazil (Open to Remote) | +55 (43) 99695-7458 | leonardopaivadev@gmail.com*
 
 ## 👾 Technical Skills
 - **Game Development:** C++, Unreal Engine, 3D Math, Gameplay Programming, Performance Optimization, OpenGL
