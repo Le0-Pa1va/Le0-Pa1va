@@ -10,7 +10,7 @@
 ### Lead Unreal Engine Magician 🎩 | Worn Piece | San Francisco (Remote) | *Jan 2023 - Present*
 - Multiplayer FPS with procedural dungeon generation. 
 - Developed a procedural dungeon generation system using 3D math with approximately 100,000 hexagons, optimized to run at 120fps on a mid-end PC.
-- Rewrote a plugin, reducing latency from 19ms to 0.9ms, resulting in a 95.26% improvement.
+- Rewrote a plugin, reducing latency from 19ms to 9ms, resulting in a 95.26% improvement.
 - Led a team, increasing productivity by 67% through better scheduling and daily code review rotations.
 - Implemented killer multiplayer gameplay mechanics.
 
