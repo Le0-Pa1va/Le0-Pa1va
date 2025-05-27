@@ -1,40 +1,56 @@
 # Leonardo Paiva
 
-## 👾 Technical Skills
-- **Game Development:** C++, Unreal Engine, 3D Math, Gameplay Programming, Performance Optimization, OpenGL
-- **Back End:** Python, Flask, PostgreSQL, MongoDB, MySQL, RabbitMQ, Microservices
-- **Developer Tools:** Git, Docker, P4, Agile Methodology, Microsoft Azure
-
-## 💻 Experience
-
-### Lead Unreal Engine Magician 🎩 | Worn Piece | San Francisco (Remote) | *Jan 2023 - Present*
-- Multiplayer FPS with procedural dungeon generation. 
-- Developed a procedural dungeon generation system using 3D math with approximately 100,000 hexagons, optimized to run at 120fps on a mid-end PC.
-- Rewrote a plugin, reducing latency from 19ms to 9ms, resulting in a 95.26% improvement.
-- Led a team, increasing productivity by 67% through better scheduling and daily code review rotations.
-- Implemented killer multiplayer gameplay mechanics.
-
-### Backend Sorcerer 🔮 | Sensedata | São Paulo (Remote) | *Mar 2021 - Present*
-- Web Customer Success application syncing with Outlook calendar using RabbitMQ and Microsoft API.
-- Led a project, improving loading time from 4 seconds to 0.9 milliseconds.
-- Performed penetration testing, making the platform as secure as Fort Knox.
-
-### Unreal Engine Apprentice 🧙 | FATEC | Ourinhos | *Feb 2019 - Oct 2020*
-- Developed wave-based combat gameplay using a plethora of mind-boggling 3D math.
-- Crafted mesmerizing materials, including a cell shader for the game's post-processing.
-- Programmed basic animations for the main character.
-
-### Unity Dreamweaver 🌌 | Game Office | Ourinhos | *Feb 2018 - Feb 2019*
-- Built an educational infinity runner game with procedural level generation focused on recycling education.
-- Worked closely with clients, making their dreams come true.
-- Deployed the app in 4 schools, creating ripples of positive impact in recycling education.
-
-## 🎓 Education
-- **Anhanguera:** Postgraduate Diploma in Game Development (In Progress)
-- **Uniciv:** Postgraduate Diploma in Cyber Security & Ethical Hacking (2022)
-- **FATEC Ourinhos:** Bachelor's Degree in Game Development (2020)
+📧 leonardopaivadev@gmail.com  
+📍 Jacarezinho, PR, Brazil  
+🔗 [LinkedIn](https://www.linkedin.com/in/leonardo-paiva-dev)
 
 ---
 
-*“Coding the dream, one line at a time.”* 🚀
+## 🧠 Summary
 
+Software Engineer with 4+ years of experience, specializing in AI-driven solutions, high-performance systems, and scalable back-end architectures. Led cross-functional teams in projects impacting 1 billion+ data points and achieving 77.5% platform speed optimization. Proficient in Python, cloud technologies (AWS, GCP), and modern frameworks (FastAPI, Django). Certified in Cybersecurity, with a focus on secure API design and compliance. Skilled in translating complex technical requirements into efficient, maintainable code.
+
+---
+
+## 💼 Experience
+
+### **Zenvia** — *Software Engineer*  
+*Jan 2024 – Present*  
+- Spearheaded the implementation of the company’s first AI-powered data processing system, handling 1B+ records with 99.8% accuracy using embeddings.  
+- Developed RESTful APIs for microservices integration, ensuring 99.9% SLA uptime and latency under 200ms.  
+- Utilized RabbitMQ for asynchronous data updates between legacy monolith and AI microservice, enabling scalability.  
+- Collaborated with DevOps to migrate legacy systems to Kafka, achieving 50k+ asynchronous transactions/sec.
+
+---
+
+### **WornPiece** — *Software Engineer (Part-Time)*  
+*Jan 2023 – Jun 2024*  
+- Implemented a feature to generate up to 200,000 elements simultaneously (e.g., Penrose Mosaic), increasing processing capacity by 2.5x.  
+- Refactored monolithic systems into independent modules with clean architecture, improving productivity by 57%.  
+- Built Python benchmark scripts to identify performance regressions in the terrain generation system.
+
+---
+
+### **SenseData** — *Software Engineer*  
+*Mar 2021 – Jan 2024*  
+- Maintained a Flask + PostgreSQL API with high availability and low latency.  
+- Wrote unit tests across 16+ repositories, reaching 80%+ test coverage and reducing bugs by 40%.  
+- Performed security testing, reducing vulnerabilities by 90% in the last quarter.  
+- Optimized PostgreSQL queries via indexing and data partitioning, cutting response time by 30%.
+
+---
+
+## 🎓 Education
+
+- **Focus** — Postgraduate in Algorithms and Data Structures (Sep 2024 – Present)  
+- **Uniciv** — Postgraduate in Cybersecurity and Ethical Hacking (2021 – 2022)  
+- **Fatec Ourinhos** — Technologist in Game Development (2018 – 2021)
+
+---
+
+## 🛠️ Skills
+
+**Languages & Frameworks:** Python • FastAPI • Flask  
+**Databases:** PostgreSQL • MongoDB  
+**Cloud & DevOps:** AWS • Docker • Kafka • RabbitMQ  
+**Other:** OpenAI • Microservices • Clean Architecture • Security Testing
